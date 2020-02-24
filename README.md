@@ -9,7 +9,7 @@ library(readr)
 read_csv('http://math.montana.edu/ahoegh/Data/Beauty.csv')
 ```
 
-Fit a model that uses beauty (btystdave) and at least one other variable to model course evaluations (courseevaluations). Consider whether an interaction(s) is appropriate. For each model, explain the meaning of each of the coefficients and provide evidence/size statements.
+Fit a model that uses beauty (btystdave) and at least one other variable to model course evaluations (courseevaluations). Consider whether an interaction(s) is appropriate. For ~~each~~ _the_ model, explain the meaning of each of the coefficients and provide evidence/size statements.
 
 ## Question 2. GH. Ex 4.3 (6 points)
 Plotting linear and nonlinear regressions...
